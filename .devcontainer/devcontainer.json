@@ -7,9 +7,13 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
+				"donjayamanne.git-extension-pack",
+				"GrapeCity.gc-excelviewer",
 				"mechatroner.rainbow-csv",
+				"mhutchie.git-graph",
 				"ms-toolsai.datawrangler",
-				"GrapeCity.gc-excelviewer"
+				"seatonjiang.gitmoji-vscode",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	}
